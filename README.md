@@ -18,9 +18,9 @@ I'm sophisticated, witty, charming, good looking and intelligent. At least, that
 ### Internships
 [Mozilla](https://mozilla.org/): November 2017 - February 2018
 
-Jade: November 2015 - February 2016
+[Jade](https://www.jadeworld.com/): November 2015 - February 2016
 
-Orion Health: November 2014 - February 2015
+[Orion Health](https://orionhealth.com): November 2014 - February 2015
 
 Most recently, I’ve been at Google, working on Chromium, with a particular focus on offline web apps on desktop. My contributions included design and implementation work on the [Badging API](https://www.chromestatus.com/feature/6068482055602176), implementing the custom tab bar for desktop PWAs, and designing and implementing a prototype of a new [File Handling API](https://www.chromestatus.com/feature/5721776357113856) for Progressive Web Apps (PWAs). This work was largely C++ based, though I also did standardization work for these APIs.
 
