@@ -6,7 +6,7 @@
 +61424630389
 
 ## A Personal Statement
-I'm sophisticated, witty, charming, good looking and intelligent. At least, that's what my Mum tells me. More seriously, I have a BE(hons) in Software Engineering and I've been working full time in the industry since 2017 and interning at various companies since 2014.
+I'm sophisticated, witty, charming, good looking and intelligent. At least, that's what my Mum tells me. More seriously, I have a BE(hons) in Software Engineering and I've been working full time in the industry since 2017 and interning at various companies since 2014. My background is in C#, C++ and Typescript/JavaScript.
 
 ## Previous Work
 
