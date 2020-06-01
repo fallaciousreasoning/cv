@@ -34,7 +34,7 @@ For the 2015/2016 break I interned at Jade, as a part of a Callaghan grant, doin
 
 ### Hong Kong University of Science and Technology (HKUST)
 **start 2016 - mid 2016**: As part of an exchange program with my home university.
-- Studied at HKUST, the top rated university in Asia (well, according to their website http://www.ust.hk/about-hkust/rankings/).
+- Studied at HKUST, the top rated university in Asia (well, according to [their website](http://www.ust.hk/about-hkust/rankings/)).
 - Travelled around Asia, generally having a rather good time.
 - Received the Prime Minister's Scholarship for Asia ([PMSA](https://enz.govt.nz/support/funding/scholarships/prime-ministers-scholarship-for-asia/)).
 - Received the [UC Outward Mobility Scholarship](http://www.canterbury.ac.nz/scholarshipsearch/ScholarshipDetails.aspx?ScholarshipID=6935.1331).
