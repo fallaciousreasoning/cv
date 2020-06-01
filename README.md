@@ -50,4 +50,15 @@ For the 2015/2016 break I interned at Jade, as a part of a Callaghan grant, doin
 **start 2009 - end 2013**: 
 - School dux in 2013.
 
+## Projects
+Links to my [BitBucket](https://bitbucket.org/fallaciousreasoning/) and [GitHub](https://github.com/fallaciousreasoning/) profiles. Following is a list of a some of my side projects, which are in varying stages of completion.
+- [Progrssive](https://github.com/fallaciousreasoning/progrssive): An PWA for reading RSS feeds, written with TypeScript and React. It works offline.
+- [Discoverer](https://github.com/fallaciousreasoning/discoverer): A simple music discovery site I wrote to learn React.
+- [Enigma](https://bitbucket.org/fallaciousreasoning/enigma/): A game and physics engine I've been writing in TypeScript.
+- [BuildingDetector](https://bitbucket.org/fallaciousreasoning/buildingdetector)/[ResearchProject](https://bitbucket.org/fallaciousreasoning/researchproject/overview): Two projects which together form a rudimentary building detector that I built for my honors project.
+
+## References
+References can be provided upon request.
+
+
 
