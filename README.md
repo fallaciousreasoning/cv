@@ -29,3 +29,25 @@ Before Google, I was employed at Envoy Advanced Technologies where I worked on a
 Over the 2016/2017 summer, I interned in the Mozilla media team, which involved work with encrypted video playback and content decryption modules. This was almost entirely in C++ (with a little side of JavaScript, for tests). In particular I added sub sample encryption support to EME playback of MP4 ([Bug 1318792](https://bugzilla.mozilla.org/show_bug.cgi?id=1318792)) and WebM videos ([Bug 1306477](https://bugzilla.mozilla.org/show_bug.cgi?id=1306477)), which included some major refactors and minor bugfixes.
 
 For the 2015/2016 break I interned at Jade, as a part of a Callaghan grant, doing researchy stuff. This work was mostly in C# (for the backend) with a side of JavaScript for an Angular.js frontend. I worked on a few different aspects of a project called ‘[OnSide](https://onside.co.nz/company/blog/onside-and-jade-software-bring-innovation-to-health-and-safety/);’ an app for helping farmers keep track of risks and contractors on farms.
+
+## My Education
+
+### Hong Kong University of Science and Technology (HKUST)
+**start 2016 - mid 2016**: As part of an exchange program with my home university.
+- Studied at HKUST, the top rated university in Asia (well, according to their website http://www.ust.hk/about-hkust/rankings/).
+- Travelled around Asia, generally having a rather good time.
+- Received the Prime Minister's Scholarship for Asia ([PMSA](https://enz.govt.nz/support/funding/scholarships/prime-ministers-scholarship-for-asia/)).
+- Received the [UC Outward Mobility Scholarship](http://www.canterbury.ac.nz/scholarshipsearch/ScholarshipDetails.aspx?ScholarshipID=6935.1331).
+
+### University of Canterbury
+**start 2013 - end 2016**: Graduated December 2016 with a Bachelor of Engineering and First Class Honors.
+- Completed my first course in my third year of high school, getting an A+ through STAR (a program high schools run that lets you sit University papers for free).
+- Started work on getting myself a degree in 2013. Fully enrolled and started crossing off courses I needed for the intermediate year, while remaining a part-time student at Unlimited (see below).
+- My GPA, as of graduation was 7.55 (an A- is 7 while an A is 8).
+
+
+### Unlimited Paenga Tawhiti (Unlimited or UPT)
+**start 2009 - end 2013**: 
+- School dux in 2013.
+
+
