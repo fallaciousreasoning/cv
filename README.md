@@ -51,7 +51,8 @@ For the 2015/2016 break I interned at Jade, as a part of a Callaghan grant, doin
 - School dux in 2013.
 
 ## Projects
-Links to my [BitBucket](https://bitbucket.org/fallaciousreasoning/) and [GitHub](https://github.com/fallaciousreasoning/) profiles. Following is a list of a some of my side projects, which are in varying stages of completion.
+Links to my [BitBucket](https://bitbucket.org/fallaciousreasoning/) and [GitHub](https://github.com/fallaciousreasoning/) profiles. Following is a list of a some of my side projects, which are in varying stages of completion. A link to live versions of the projects are available on the Github pages, where applicable.
+
 - [Progrssive](https://github.com/fallaciousreasoning/progrssive): An PWA for reading RSS feeds, written with TypeScript and React. It works offline.
 - [NZ Topo](https://github.com/fallaciousreasoning/topo): A PWA for viewing NZ topographic maps and planning trips. It works offline. Started the project to learn Svelte and because I wanted an offline maps app in the backcountry. 
 - [Discoverer](https://github.com/fallaciousreasoning/discoverer): A simple music discovery site I wrote to learn React.
