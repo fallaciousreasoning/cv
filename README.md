@@ -22,6 +22,8 @@ I'm sophisticated, witty, charming, good looking and intelligent. At least, that
 
 [Orion Health](https://orionhealth.com): November 2014 - February 2015
 
+-----------------------------------------------------------------------
+
 Most recently, I’ve been at Google, working on Chromium, with a particular focus on offline web apps on desktop. My contributions included design and implementation work on the [Badging API](https://www.chromestatus.com/feature/6068482055602176), implementing the custom tab bar for desktop PWAs, and designing and implementing a prototype of a new [File Handling API](https://www.chromestatus.com/feature/5721776357113856) for Progressive Web Apps (PWAs). This work was largely C++ based, though I also did standardization work for these APIs.
 
 Before Google, I was employed at Envoy Advanced Technologies where I worked on a number of projects, including a piece of enterprise software for managing building certifications ([BCS](https://www.certification.systems/)), using ASP.NET and Knockout; a cross platform mobile app for building inspectors, using Xamarin Forms; an iOS app written in Swift to showcase a new streaming algorithm; and a new [corporate travel product](https://www.alienta.net), written in dotnet core 2.0, React and TypeScript.
