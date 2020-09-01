@@ -58,7 +58,7 @@ Links to my [BitBucket](https://bitbucket.org/fallaciousreasoning/) and [GitHub]
 - [Progrssive](https://github.com/fallaciousreasoning/progrssive): An PWA for reading RSS feeds, written with TypeScript and React. It works offline.
 - [NZ Topo](https://github.com/fallaciousreasoning/topo): A PWA for viewing NZ topographic maps and planning trips. It works offline. Started the project to learn Svelte and because I wanted an offline maps app in the backcountry. 
 - [Discoverer](https://github.com/fallaciousreasoning/discoverer): A simple music discovery site I wrote to learn React.
-- [Enigma](https://bitbucket.org/fallaciousreasoning/enigma/): A game and physics engine I've been writing in TypeScript.
+- [Bombs Away](https://github.com/fallaciousreasoning/bombs-away/): A game and physics engine I've been writing in TypeScript.
 - [BuildingDetector](https://bitbucket.org/fallaciousreasoning/buildingdetector)/[ResearchProject](https://bitbucket.org/fallaciousreasoning/researchproject/overview): Two projects which together form a rudimentary building detector that I built for my honors project.
 
 ## References
